@@ -1,0 +1,15 @@
+covid 1
+coronaviru 1
+quarantin 3
+maintain 1
+best 2
+hospit 1
+viru 1
+expos 1
+home 1
+seek 1
+inform 1
+practic 2
+activ 1
+durat 1
+infect 1

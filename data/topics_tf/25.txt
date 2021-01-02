@@ -1,0 +1,15 @@
+fatal 1
+specif 1
+coronaviru 2
+biomark 3
+predict 3
+clinic 1
+sever 2
+look 1
+cours 1
+ncov 1
+diseas 1
+outcom 2
+infect 2
+inform 1
+peopl 1

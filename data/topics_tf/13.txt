@@ -1,0 +1,13 @@
+anim 1
+object 1
+peopl 1
+covid 1
+possibl 1
+way 1
+inform 1
+look 1
+rout 1
+transmiss 1
+spread 1
+contract 1
+coronaviru 2

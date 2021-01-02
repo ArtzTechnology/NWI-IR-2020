@@ -1,0 +1,17 @@
+medic 1
+interact 1
+angiotensin 2
+ace 3
+inhibitor 2
+patient 3
+receptor 1
+coronaviru 2
+convert 2
+look 1
+enzym 2
+recommend 1
+increas 1
+covid 1
+take 2
+risk 2
+inform 1

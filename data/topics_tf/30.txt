@@ -1,0 +1,12 @@
+treat 1
+outcom 1
+clinic 1
+inform 1
+specif 1
+patient 1
+seek 1
+covid 2
+treatment 1
+remdesivir 3
+effect 1
+coronaviru 1

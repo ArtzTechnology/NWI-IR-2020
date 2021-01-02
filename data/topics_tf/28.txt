@@ -1,0 +1,13 @@
+benefit 1
+assess 1
+studi 1
+clinic 1
+scienc 1
+basic 1
+covid 2
+treat 2
+valu 1
+harm 1
+evid 1
+hydroxychloroquin 3
+coronaviru 1

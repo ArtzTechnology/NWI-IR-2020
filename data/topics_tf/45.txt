@@ -1,0 +1,16 @@
+psychiatr 1
+coronaviru 1
+mental 3
+disord 1
+health 3
+anxieti 1
+impact 2
+condit 1
+covid 1
+increas 1
+pandem 1
+decreas 1
+rate 1
+depress 1
+includ 1
+panic 1

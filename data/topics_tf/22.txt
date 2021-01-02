@@ -1,0 +1,14 @@
+patient 1
+seek 1
+complic 2
+impact 1
+cardiac 2
+like 1
+inform 1
+covid 1
+caus 1
+coronaviru 2
+type 1
+heart 1
+frequenc 1
+mechan 1

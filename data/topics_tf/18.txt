@@ -1,0 +1,8 @@
+use 1
+type 1
+covid 2
+infect 2
+best 1
+coronaviru 1
+prevent 3
+mask 3

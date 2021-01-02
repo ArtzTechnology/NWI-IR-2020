@@ -1,0 +1,17 @@
+like 1
+hypertens 3
+kind 1
+infect 1
+complic 1
+viru 1
+seek 1
+covid 1
+associ 1
+face 1
+less 1
+relat 1
+patient 1
+specif 1
+outcom 1
+coronaviru 1
+type 1

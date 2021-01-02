@@ -1,0 +1,16 @@
+quarantin 1
+relat 1
+famili 1
+pandem 3
+crime 1
+impact 2
+societi 1
+includ 2
+violent 1
+violenc 4
+covid 1
+domest 1
+analys 1
+look 1
+rate 1
+data 1

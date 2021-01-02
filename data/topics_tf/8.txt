@@ -1,0 +1,17 @@
+complet 1
+impact 1
+question 1
+true 1
+report 1
+led 1
+lack 2
+test 2
+underreport 1
+preval 1
+covid 3
+avail 1
+incid 2
+coronaviru 1
+studi 1
+look 1
+answer 1

@@ -1,0 +1,11 @@
+result 1
+complet 1
+covid 1
+rang 1
+specif 1
+recruit 1
+seek 1
+avail 1
+trial 5
+clinic 3
+coronaviru 2

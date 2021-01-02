@@ -1,0 +1,9 @@
+mechan 1
+look 1
+covid 2
+death 2
+caus 1
+coronaviru 1
+die 1
+studi 1
+peopl 1

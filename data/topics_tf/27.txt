@@ -1,0 +1,9 @@
+symptom 1
+show 1
+covid 2
+infect 2
+known 2
+peopl 1
+studi 1
+asymptomat 2
+coronaviru 1

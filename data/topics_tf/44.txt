@@ -1,0 +1,17 @@
+popul 1
+r 1
+includ 2
+mask 3
+transmiss 2
+much 1
+look 1
+prevent 1
+sar 1
+spread 1
+covid 1
+coronaviru 1
+studi 3
+slow 1
+lab 1
+impact 3
+cov 1

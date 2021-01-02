@@ -1,0 +1,15 @@
+gain 1
+immun 3
+cov 2
+sar 2
+develop 2
+infect 3
+peopl 1
+cross 2
+type 1
+coronaviru 2
+studi 1
+due 2
+protect 2
+possibl 1
+seek 1
